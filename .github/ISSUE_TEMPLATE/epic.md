@@ -3,6 +3,7 @@ name: Epic
 about: Epic creation template
 title: ''
 labels: Project Roadmap
+projects: "E-Sensia/2"
 assignees: ''
 
 ---

@@ -3,6 +3,7 @@ name: Issue
 about: Bug or feature template
 title: ''
 labels: ''
+projects: "E-Sensia/2"
 assignees: ''
 
 ---
